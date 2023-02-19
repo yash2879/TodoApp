@@ -1,0 +1,5 @@
+Try to integrate the print reciet option.
+Make a hosted site that can be provided on a subscription basis locally.
+Two logins on main screen ["For Restaurant Admins(RAD's)","For customers"]
+RAD's should be able to [Create new dishes, manage hotel tables, view booked tables and their time, calculate monthly income, 
+, etc]
